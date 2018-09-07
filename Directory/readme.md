@@ -1,8 +1,6 @@
-**This Page Is Organized In Chronoligical Order**
+# Directory
 
-_________________________________________________________________________________________________________________________________________
-
-The "competition" link is an explination of the physical competion of that year, including:
+The "competition" link is an explanation of the physical competion of that year, including:
 
 >The experience of the team during the competition
 
@@ -14,23 +12,13 @@ The "competition" link is an explination of the physical competion of that year,
 
 _________________________________________________________________________________________________________________________________________
 
-The "competition preperation" link is an explenation of the preparation for the competition to come, including:
+The "competition preperation" link is an explanation of the preparation for the competition to come, including:
 
 >A description of the physical desighn changes
 
 >All code and changes in the code
 
 >Any progress on other additions
-
-.
-
-.
-
-.
-
-.
-
-.
 
 .
 
