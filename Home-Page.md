@@ -14,15 +14,13 @@ The "competition" link is an explination of the physical competion of that year,
 
 _________________________________________________________________________________________________________________________________________
 
-The "comp prep" link is an explenation of the preparation for the competition to come, including:
+The "competition preperation" link is an explenation of the preparation for the competition to come, including:
 
 >A description of the physical desighn changes
 
->Changes in the code
+>All code and changes in the code
 
-> Any progress on other additions
-
-.
+>Any progress on other additions
 
 .
 
@@ -34,3 +32,10 @@ The "comp prep" link is an explenation of the preparation for the competition to
 
 .
 
+.
+
+**LINKS**
+
+[2018 Competition]()
+
+[2019 competition preperation]
