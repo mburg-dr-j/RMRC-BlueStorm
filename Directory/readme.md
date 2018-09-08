@@ -26,4 +26,4 @@ The "competition preperation" link is an explanation of the preparation for the 
 
 [2018 Competition](2018-competition)
 
-[2019 competition preperation](2019-competition-preperation)
+[2019 competition preparation](2019-competition-preparation)
