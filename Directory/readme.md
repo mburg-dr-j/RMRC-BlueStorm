@@ -1,6 +1,6 @@
 # Directory
 
-The "competition" link is an explanation of the physical competion of that year, including:
+The "competition" link is an explanation of that competition, including:
 
 >The experience of the team during the competition
 
@@ -24,6 +24,6 @@ The "competition preperation" link is an explanation of the preparation for the 
 
 **LINKS**
 
-[2018 Competition](2018 Competition)
+[2018 Competition](2018 competition)
 
 [2019 competition preperation](2019 competition preparation)
