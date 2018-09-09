@@ -1,6 +1,6 @@
-# Directory
+# Directory Links (at the bottom)
 
-**(Links at the bottom)**
+
 
 The "competition" link is an explanation of that competition, including:
 
