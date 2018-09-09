@@ -2,7 +2,7 @@
 
 
 
-The "competition" link is an explanation of that competition, including:
+[2018 Competition](2018-competition)
 
 >The experience of the team during the competition
 
@@ -14,7 +14,7 @@ The "competition" link is an explanation of that competition, including:
 
 _________________________________________________________________________________________________________________________________________
 
-The "competition preperation" link is an explanation of the preparation for the competition to come, including:
+[2019 competition preparation](2019-competition-preparation)
 
 >A description of the physical desighn changes
 
@@ -24,16 +24,8 @@ The "competition preperation" link is an explanation of the preparation for the 
 
 _________________________________________________________________________________________________________________________________________
 
-The "Blog" link will take you to a series of entries made by the mercersburg team describing what we have been working on in vague terms
+[Blog](blog)
+
+> A vague overview of the different items that we have been working on
 
 >To learn more in depth about the projects desbribed in this section you can go to the the link with the corresponding time period 
-
-.
-
-**LINKS**
-
-[2018 Competition](2018-competition)
-
-[2019 competition preparation](2019-competition-preparation)
-
-[Blog](blog)
