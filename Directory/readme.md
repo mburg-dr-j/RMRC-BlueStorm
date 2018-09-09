@@ -1,5 +1,7 @@
 # Directory
 
+**(Links at the bottom)**
+
 The "competition" link is an explanation of that competition, including:
 
 >The experience of the team during the competition
