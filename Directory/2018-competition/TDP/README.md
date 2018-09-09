@@ -70,16 +70,24 @@
 [Netgear Nighthawk X4 Router]()
 TOTAL: |
 
->At least one picture, 3D rendering or technical drawing of your robot:
-
+[The Robot](design)
 
 
 >Be sure to highlight particular features of your robot:
 
->A list of software packages, hardware and electronic components that you have used, or plan to use, particularly those from the Open Source community, through the Open Academic Robot Kit or otherwise.
+Open Source Hardware  
 
->A list of software packages, hardware and electronic components and designs that you have, or plan to, contribute to the Open Source community, through the Open Academic Robot Kit or otherwise.
+> The Arduino Mega
 
->Note that you will still need to actually open source your components in the days prior to the competition as we assume you will continue development between the submission of the TDM and the competition!
+> The Raspberry Pi 3 and Pi cam
+
+Open Source Software  
+
+>Arduino IDE  
+
+>‘ardyno’ library for Dynamixel servos on the Arduino. 
+
+>Raspian operating system
+
 References (to other work that you have made use of).
 
