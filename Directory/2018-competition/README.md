@@ -8,7 +8,7 @@
 
 >A list of the software used during the commpetition
 
-**[design](mechanical)**
+**[Design](design)**
 
 >A list of the .STLs used during the competition
 
