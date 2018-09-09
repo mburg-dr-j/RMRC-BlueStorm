@@ -20,6 +20,12 @@ The "competition preperation" link is an explanation of the preparation for the 
 
 >Any progress on other additions
 
+_________________________________________________________________________________________________________________________________________
+
+The "Blog" link will take you to a series of entries made by the mercersburg team describing what we have been working on in vague terms
+
+>To learn more in depth about the projects desbribed in this section you can go to the the link with the corresponding time period 
+
 .
 
 **LINKS**
@@ -27,3 +33,5 @@ The "competition preperation" link is an explanation of the preparation for the 
 [2018 Competition](2018-competition)
 
 [2019 competition preparation](2019-competition-preparation)
+
+[Blog](blog)
