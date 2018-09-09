@@ -89,7 +89,7 @@ TOTAL: |
 .
 
 
-[The Robot](design)
+![The Robot](RMRC_pic.png)
 
 
 .
