@@ -12,7 +12,7 @@
 
 >Email:  jaiclinm@mercersburg.edu 
 
->Team website:
+>Team website: https://github.com/mburg-dr-j/RMRC-BlueStorm
 
 .
 
@@ -29,7 +29,7 @@
 
 >Hardware: The robot uses two Rasberry Pi model 3B+ to stream the two raberry Pi Cams and the thermal imaging camera, an arduino mega to control the 4 dynamixels (ax-12w). There is a speaker from a $1 gutted home phone that we bought in Montreal as well as a usb microphone connected to a Raspberry Pi.
 
->Software:
+>Software:***************************************************************
 
 >Communications: The robot was able to communicate wirelessly through a 5ghz signal from our [router name], or it could be connected through two ethernat cable plugged into both Raspberry Pis.
 
@@ -39,27 +39,29 @@
 
 **Application, describing:**
 
->Setup and packup of your robot and operator station:
+>Setup and packup of your robot and operator station: The operator station was a laptop connected to a router connected to the robot. The robot consisted of 2 Raspberry Pis stacked on top of eachother. these were connected to an arduino mega that controlled the servos.
 
->Mission strategy: 
+>Mission strategy: To be able to traverse the course the quickest while implementing as many imaging based sensor points possible
 
->Experiments and testing that you have done or will do:
+>Experiments and testing that you have done or will do: running the robot through home built courses. Testing the hazmat and motion tracking sensors using the online recources.
 
->How the particular strengths of your team are relevant to applications in the field:
+>How the particular strengths of your team are relevant to applications in the field: We are able to traverse enviroments very quickly and take a great deal of abuse. Perfect for time sensiive situations.
 
 **Conclusion, summarising:**
 
->What your team has learned so far:
+>What your team has learned so far: We have learned that keeping the design simple is imperative to our success. Also that thouroughly testing every part of our robot in competition like circumstances is needed in order to be prepared at the competition.
 
->What you plan on doing between now and the competition:
-
-.
+>What you plan on doing between now and the competition:**********************************************
 
 **Appendix containing:**
 
 >One table per robot outlining the components and estimated cost of your robot:
 
+
+
 >At least one picture, 3D rendering or technical drawing of your robot:
+
+
 
 >Be sure to highlight particular features of your robot:
 
