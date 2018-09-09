@@ -1,4 +1,4 @@
-# Directory Links (at the bottom)
+# Directory Links
 
 
 
