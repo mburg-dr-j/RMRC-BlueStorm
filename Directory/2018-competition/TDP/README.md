@@ -88,12 +88,6 @@ TOTAL: |
 
 .
 
-
-![The Robot](RMRC_pic.png)
-
-
-.
-
 Open Source Hardware  
 
 > The Arduino Mega
@@ -109,4 +103,14 @@ Open Source Software
 >Raspian operating system
 
 References (to other work that you have made use of).
+
+
+.
+
+
+![The Robot](RMRC_pic.png)
+
+
+.
+
 
