@@ -58,6 +58,17 @@
 >One table per robot outlining the components and estimated cost of your robot:
 
 
+ Component | Estimated Cost
+ ----------|----------------
+[arduino mega](https://www.mouser.com/ProductDetail/Arduino/A000066?qs=BC3YYPaifMrIue9b%252bHtKQg%3D%3D&gclid=Cj0KCQjwidPcBRCGARIsALM--eN8v65L1Oa7wp3lAjmWGikhGuY3MppZZ6ereN1YRN4TAOq24Qmx4N0aAtqjEALw_wcB)| $22
+[3-cell(11.1V) Lipo Battery]()|
+[4 x Dynamixel AX-12W](https://www.trossenrobotics.com/p/ax-12w-dynamixel-robot-servo.aspx?feed=Froogle&gclid=Cj0KCQjwidPcBRCGARIsALM--ePvoacYGdES8VoEXtqBKq1GnUcX1IFlbtcr-JInCoGgyg1OW942NOsaAlK1EALw_wcB)|$164.8
+[Power Module]()|
+[x2 Raspberry PI 3B+](https://www.dfrobot.com/product-1703.html?gclid=Cj0KCQjwidPcBRCGARIsALM--ePrw4qpy1WSF_i2oI3_BNTx80WOF0UjbCSBXMUfQPantufZuu_xCtoaAjLKEALw_wcB)|$80
+[PiCam](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi)|$24.99
+[x2 Ethernet Cable](https://www.monoprice.com/product?p_id=5905&gclid=Cj0KCQjwidPcBRCGARIsALM--eOVewPcyw5ijob6wHENVjCONQkVqlPGV5DEStqtwm2Bfp4aYLv3gEcaAur4EALw_wcB)|$26
+[Netgear Nighthawk X4 Router]()
+TOTAL: |
 
 >At least one picture, 3D rendering or technical drawing of your robot:
 
