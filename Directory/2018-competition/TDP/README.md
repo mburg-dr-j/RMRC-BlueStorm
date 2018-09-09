@@ -16,6 +16,10 @@
 
 .
 
+
+
+
+
 **Introduction summarising:**
 
 >The team: Victor Li, 12th grade; Patrick Madden, 12th grade; Joseph Lieber, 11th grade; Marcus Jaiclin, Ph.D., Faculty mentor. 
@@ -23,7 +27,11 @@
 
 >The technical aspects that it focuses on: Victor has been improving the image recognition algorithms. Patrick is working on the wireless communication and Joseph is working on improving the durability of the physical robot.
 
+
 .
+
+
+
 
 **System description, describing:**
 
@@ -35,7 +43,10 @@
 
 >Human-robot interface: This was just a laptop that displayed the different programs while we used normal gaming keys(w,a,s,d) to control the robot.
 
+
 .
+
+
 
 **Application, describing:**
 
@@ -47,16 +58,21 @@
 
 >How the particular strengths of your team are relevant to applications in the field: We are able to traverse enviroments very quickly and take a great deal of abuse. Perfect for time sensiive situations.
 
-**Conclusion, summarising:**
+.
+
+
+**Conclusion:**
 
 >What your team has learned so far: We have learned that keeping the design simple is imperative to our success. Also that thouroughly testing every part of our robot in competition like circumstances is needed in order to be prepared at the competition.
 
 >What you plan on doing between now and the competition:**********************************************
 
-**Appendix containing:**
+.
 
->One table per robot outlining the components and estimated cost of your robot:
 
+
+
+**Appendix:**
 
  Component | Estimated Cost
  ----------|----------------
@@ -70,10 +86,13 @@
 [Netgear Nighthawk X4 Router]()
 TOTAL: |
 
+.
+
+
 [The Robot](design)
 
 
->Be sure to highlight particular features of your robot:
+.
 
 Open Source Hardware  
 
