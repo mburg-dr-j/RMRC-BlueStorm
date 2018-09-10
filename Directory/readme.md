@@ -29,3 +29,9 @@ ________________________________________________________________________________
 > A vague overview of the different items that we have been working on
 
 >To learn more in depth about the projects desbribed in this section you can go to the the link with the corresponding time period 
+
+_________________________________________________________________________________________________________________________________________
+
+[Retired designs](retired_designs)
+
+> This is a list of all the designs that were used or had been in the prototype stages but were purged from the current design
