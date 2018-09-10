@@ -8,7 +8,7 @@
 
 >This is all of the code involved with the robot and explenations about how they work and what they do
 
-**[Parts List](parts-list)**
+**[Parts List](parts_list)**
 
 > A table of parts, costs, and links to all parts used
 
