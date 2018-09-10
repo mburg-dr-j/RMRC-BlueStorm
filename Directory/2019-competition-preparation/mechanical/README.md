@@ -1,13 +1,13 @@
 # Mechanical Design
 
-**[Main Body](main_body)**
+1.**[Main Body](main_body)**
 
-**[Pi Casing](pi_box)**
+2.**[Pi Casing](pi_box)**
 
-**[Arduino casing](arduino_box)**
+3.**[Arduino casing](arduino_box)**
 
-**[Power Control Unit(PCU)](pcu)**
+5.**[Power Control Unit(PCU)](pcu)**
 
-**[Wheels](wheel)**
+6.**[Wheels](wheel)**
 
-**[Dynamixel Heat Sink](dynamixel_heat_sink)**
+7.**[Dynamixel Heat Sink](dynamixel_heat_sink)**
