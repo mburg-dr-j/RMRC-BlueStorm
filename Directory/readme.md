@@ -4,8 +4,6 @@
 
 [2018 Competition](2018-competition)
 
->The experience of the team during the competition
-
 >A description and .stl of the final competition robot and any changes made during the competion
 
 >A list of all the code used at the competition
