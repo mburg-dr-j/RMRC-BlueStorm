@@ -1,5 +1,9 @@
 # 2019 Competition Preparation
 
+**[Team Description Material](TDM)**
+
+> overview of team and robot. WARNING!!!: not updated as much as blog
+
 **[Mechanical design](mechanical)**
 
 >This is all of the mechanical designs involved with the robot, along with a detailed explenation of what they are and everything about them
