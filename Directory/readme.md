@@ -2,7 +2,7 @@
 
 
 
-[2018 Competition](2018-competition)
+[2018 Competition](directory-links/2018-competition)
 
 >A description and .stl of the final competition robot and any changes made during the competion
 
@@ -12,7 +12,7 @@
 
 _________________________________________________________________________________________________________________________________________
 
-[2019 competition preparation](2019-competition-preparation)
+[2019 competition preparation](directory-links/2019-competition-preparation)
 
 >A description of the physical desighn changes
 
@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________
 
-[Blog](blog)
+[Blog](directory-links/blog)
 
 > A vague overview of the different items that we have been working on
 
@@ -30,6 +30,6 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________
 
-[Retired designs](retired_designs)
+[Retired designs](directory-links/retired_designs)
 
 > This is a list of all the designs that were used or had been in the prototype stages but were purged from the current design
