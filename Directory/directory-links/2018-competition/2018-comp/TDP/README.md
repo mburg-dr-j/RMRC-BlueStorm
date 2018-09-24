@@ -37,9 +37,9 @@
 
 >Hardware: The robot uses two Rasberry Pi model 3B+ to stream the two raberry Pi Cams and the thermal imaging camera, an arduino mega to control the 4 dynamixels (ax-12a). There is a speaker from a $1 gutted home phone that we bought in Montreal as well as a usb microphone connected to a Raspberry Pi.
 
->Software:***************************************************************
+>Software: When running, the Pis streamed video for the driver to steer by.  The Arduino was connected to the Pi over USB, and communicated via a Serial channel.  The operator logs in to the Pi via Remote Desktop, and uses a laptop keyboard to control the robot, with keystrokes transmitted over hte Serial channel.  When sensor testing, the Pi had separate codes for the separate sensor tests which were each run, one at a time, in sequence.
 
->Communications: The robot was able to communicate wirelessly through a 5ghz signal from our [router name], or it could be connected through two ethernat cable plugged into both Raspberry Pis.
+>Communications: The robot was able to communicate wirelessly through a 5ghz signal from our router, or it could be connected through two ethernat cable plugged into both Raspberry Pis.
 
 >Human-robot interface: This was just a laptop that displayed the different programs while we used normal gaming keys(w,a,s,d) to control the robot.
 
@@ -54,20 +54,15 @@
 
 >Mission strategy: To be able to traverse the course the quickest while implementing as many imaging based sensor points possible
 
->Experiments and testing that you have done or will do: running the robot through home built courses. Testing the hazmat and motion tracking sensors using the online recources.
+>Experiments and testing that you have done or will do: running the robot through sample courses. Testing the hazmat and motion tracking sensors using the online recources.
 
 >How the particular strengths of your team are relevant to applications in the field: We are able to traverse enviroments very quickly and take a great deal of abuse. Perfect for time sensiive situations.
 
 .
 
-
 **Conclusion:**
 
 >What your team has learned so far: We have learned that keeping the design simple is imperative to our success. Also that thouroughly testing every part of our robot in competition like circumstances is needed in order to be prepared at the competition.
-
->What you plan on doing between now and the competition:**********************************************
-
-.
 
 
 
@@ -83,7 +78,6 @@
 [x2 Raspberry PI 3B+](https://www.dfrobot.com/product-1703.html?gclid=Cj0KCQjwidPcBRCGARIsALM--ePrw4qpy1WSF_i2oI3_BNTx80WOF0UjbCSBXMUfQPantufZuu_xCtoaAjLKEALw_wcB)|$80
 [PiCam](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi)|$24.99
 [x2 Ethernet Cable](https://www.monoprice.com/product?p_id=5905&gclid=Cj0KCQjwidPcBRCGARIsALM--eOVewPcyw5ijob6wHENVjCONQkVqlPGV5DEStqtwm2Bfp4aYLv3gEcaAur4EALw_wcB)|$26
-[Netgear Nighthawk X4 Router]()
 TOTAL: |
 
 .
