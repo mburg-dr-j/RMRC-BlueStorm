@@ -1,5 +1,5 @@
 # Software
 
-[Mega Wheel](controllertomegawheelmode_ino.ino)
+[Mega Wheel](code/controllertomegawheelmode_ino.ino)
 
-[Wirelessstandardreciever](wirelessstandardreceiverjuly24_ino.ino)
+[Wirelessstandardreciever](code/wirelessstandardreceiverjuly24_ino.ino)
