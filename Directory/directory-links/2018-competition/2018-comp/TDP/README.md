@@ -74,7 +74,7 @@
 
  Component | Estimated Cost
  ----------|----------------
-[arduino mega](https://www.mouser.com/ProductDetail/Arduino/A000066?qs=BC3YYPaifMrIue9b%252bHtKQg%3D%3D&gclid=Cj0KCQjwidPcBRCGARIsALM--eN8v65L1Oa7wp3lAjmWGikhGuY3MppZZ6ereN1YRN4TAOq24Qmx4N0aAtqjEALw_wcB)| $22
+[arduino mega](https://www.robotshop.com/en/arduino-mega-2560-microcontroller-rev3.html)| $38
 [3-cell(11.1V) Lipo Battery](https://www.amazon.com/gp/product/B000U2TPN6)|$24 each
 [4 x Dynamixel AX-12A](https://www.trossenrobotics.com/p/ax-12w-dynamixel-robot-servo.aspx?feed=Froogle&gclid=Cj0KCQjwidPcBRCGARIsALM--ePvoacYGdES8VoEXtqBKq1GnUcX1IFlbtcr-JInCoGgyg1OW942NOsaAlK1EALw_wcB)|$164.8
 [Power Module](https://www.pololu.com/product/2574)|$14.95
