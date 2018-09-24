@@ -35,7 +35,7 @@
 
 **System description, describing:**
 
->Hardware: The robot uses two Rasberry Pi model 3B+ to stream the two raberry Pi Cams and the thermal imaging camera, an arduino mega to control the 4 dynamixels (ax-12w). There is a speaker from a $1 gutted home phone that we bought in Montreal as well as a usb microphone connected to a Raspberry Pi.
+>Hardware: The robot uses two Rasberry Pi model 3B+ to stream the two raberry Pi Cams and the thermal imaging camera, an arduino mega to control the 4 dynamixels (ax-12a). There is a speaker from a $1 gutted home phone that we bought in Montreal as well as a usb microphone connected to a Raspberry Pi.
 
 >Software:***************************************************************
 
