@@ -65,8 +65,6 @@
 
 >What your team has learned so far: We have learned that keeping the design simple is imperative to our success. Also that thouroughly testing every part of our robot in competition like circumstances is needed in order to be prepared at the competition.
 
->What you plan on doing between now and the competition:**********************************************
-
 .
 
 
