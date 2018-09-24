@@ -37,9 +37,9 @@
 
 >Hardware: The robot uses two Rasberry Pi model 3B+ to stream the two raberry Pi Cams and the thermal imaging camera, an arduino mega to control the 4 dynamixels (ax-12a). There is a speaker from a $1 gutted home phone that we bought in Montreal as well as a usb microphone connected to a Raspberry Pi.
 
->Software:***************************************************************
+>Software: See files.  The basic setup was that the Laptop was connected via remote desktop (xrdp) to both Pis simultaneously, and then each Pi streamed video to a localhost website.  The operator could view one or both cameras using the two RDP connectons.  The Arduino was connected to one of the Pis through a USB, and communicated over a Serial channel.  The Pi ran a simple python code that transmitted the keystrokes, and the Arduino reacted to the keystrokes to control the motors.
 
->Communications: The robot was able to communicate wirelessly through a 5ghz signal from our [router name], or it could be connected through two ethernat cable plugged into both Raspberry Pis.
+>Communications: The robot was able to communicate wirelessly through a 5ghz signal from our router, or it could be connected through two ethernat cable plugged into both Raspberry Pis.
 
 >Human-robot interface: This was just a laptop that displayed the different programs while we used normal gaming keys(w,a,s,d) to control the robot.
 
@@ -83,7 +83,7 @@
 [x2 Raspberry PI 3B+](https://www.adafruit.com/product/3775?gclid=Cj0KCQjwlqLdBRCKARIsAPxTGaU_UiXwLVAFBxmkHFe7VUJyW7p9HEdM9KS7SXtUwGT-HUhirt0bVQsaApRWEALw_wcB)|$70
 [PiCam](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi)|$24.99
 [x2 Ethernet Cable](https://www.monoprice.com/product?p_id=5905&gclid=Cj0KCQjwidPcBRCGARIsALM--eOVewPcyw5ijob6wHENVjCONQkVqlPGV5DEStqtwm2Bfp4aYLv3gEcaAur4EALw_wcB)|$26
-[Router](We just used a router that Dr. J had lying around his house.)
+Router|(We just used a router that Dr. J had lying around his house.)
 TOTAL: |
 
 .
