@@ -83,7 +83,7 @@
 [x2 Ethernet Cable](https://www.monoprice.com/product?p_id=5905&gclid=Cj0KCQjwidPcBRCGARIsALM--eOVewPcyw5ijob6wHENVjCONQkVqlPGV5DEStqtwm2Bfp4aYLv3gEcaAur4EALw_wcB)|$26
 Router|(We just used a router that Dr. J had lying around his house.)
 [FLIR Development Kit](https://www.sparkfun.com/products/13233)|$259
-TOTAL: |
+TOTAL: |$622.74
 
 .
 
