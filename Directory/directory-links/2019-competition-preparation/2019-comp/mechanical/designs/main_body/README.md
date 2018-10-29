@@ -23,17 +23,17 @@
 
 >1M drop test:
 
->[Test 1]()
+>[Test 1](https://www.youtube.com/watch?v=749xMcXUI3k)
 
 >>>This is a flat test where all points contact the floor at reletively the same time. This test showed that the body hadles this stress extremly well
 
->[Test 2]()
+>[Test 2](https://www.youtube.com/watch?v=hIUvzGDCNr8)
 
 >> This is a tilted test where the front two points contact first then the back two point
 
 > 1.5M drop test:
 
->[Test 3]()
+>[Test 3](https://www.youtube.com/watch?v=TWv8_7R1_I0)
 
 >>This test was messed up when we dropped it. The body turned on its side and thus everything went wrong as can be seen in the video. This shows the importance of lining up before the fall. Overall, I am impressed by the 1.5M drop because the only damage to the body was cause by the agle of the impact and if it were done again correctly I believe that the body would survive and there would only be a few broken gears in the dynamixels.
 
