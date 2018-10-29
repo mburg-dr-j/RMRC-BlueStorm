@@ -37,14 +37,14 @@
 
 >>This test was messed up when we dropped it. The body turned on its side and thus everything went wrong as can be seen in the video. This shows the importance of lining up before the fall. Overall, I am impressed by the 1.5M drop because the only damage to the body was cause by the agle of the impact and if it were done again correctly I believe that the body would survive and there would only be a few broken gears in the dynamixels.
 
-[v7_4](v7_4_RMRC_body.stl)
+[v7_4](v7_4_body_RMRC.stl)
 
-[v7_3](v7_3_RMRC_body.stl)
+[v7_3](v7_3_body_RMRC.stl)
 
-[v7_2](v7_2_RMRC_body.stl)
+[v7_2](v7_2_body_RMRC.stl)
 
 [v6_3](v6_3_RMRC_body.stl)
 
 > I have reduced the size of the curves along the edges to reduce wasted space as well as make the chasis thinner to allow the robot more clearance on the course.
 
-[v6_2](v6_2_RMRC_body.stl)
+[v6_2](RMRC_body_v6_2.stl)
