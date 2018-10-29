@@ -17,5 +17,7 @@
 > A table of parts, costs, and links to all parts used
 
 
+https://youtu.be/749xMcXUI3k
+https://youtu.be/hIUvzGDCNr8
 https://youtu.be/TWv8_7R1_I0
 
