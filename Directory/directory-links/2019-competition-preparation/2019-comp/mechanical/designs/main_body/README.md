@@ -5,7 +5,7 @@
 
 
 
-[v7_5](v7_5_RMRC_body.stl)
+[v7_5](v7_5_body_RMRC.stl)
 
 > I have gone back to using the 3mm design because tests proved that the 2mm design was too thin and broke too easily. I have also incorperated an angled usb camera mount, which will allow us to see the contact point of our wheels so that we will be able to have a chance at align. The final addition to this version is the addition of a substance called [3-D Gloop](https://www.3dgloop.com/shop/pla-gloop). This substance is an adhesive that we are using to help join the different layers of the print because we were having trouble with the bodies breaking at the seams during tests. For the stress tests of this design use the following links:
 
@@ -39,9 +39,9 @@
 
 [v7_4](v7_4_body_RMRC.stl)
 
-[v7_3](v7_3_body_RMRC.stl)
+[v7.3](v7_3_body_RMRC.stl)
 
-[v7_2](v7_2_body_RMRC.stl)
+[v7.2](v7_2_body_RMRC.stl)
 
 [v6_3](v6_3_RMRC_body.stl)
 
