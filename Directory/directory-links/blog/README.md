@@ -8,7 +8,7 @@
 
 >Blue-Storm RMRC
 
-![software](blog/IMG-2596.JPG)
+![software](resources/IMG-2596.JPG)
 
 **November 28th, 2018:**
 
