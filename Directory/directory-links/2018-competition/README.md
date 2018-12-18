@@ -11,7 +11,3 @@
 **[Design](2018-comp/design)**
 
 >A list of the .STLs used during the competition
-
-**[Videos](2018-comp/videos)**
-
->videos of the robot during preliminaries 
