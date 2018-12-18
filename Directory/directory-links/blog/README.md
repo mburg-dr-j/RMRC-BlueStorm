@@ -1,6 +1,14 @@
 # Blog
 
-November 28th, 2018:
+**December 12th, 2018:**
+
+>We have switched our focus from VNC to [XRDP](https://help.ubuntu.com/community/xrdp) for setting up a remote desktop. We succesfully installed XRDP using [this](https://help.ubuntu.com/community/xrdp) link. We then installed guvcu, using [this](http://ubuntuhandbook.org/index.php/2018/10/guvcview-2-0-6-released-install-ubuntu/) link, to use as a streaming software for our two USB cameras (pictures below). once we played with the settings, it seemed to work rather well with minimal lag. Collins focus now is getting the motors working with the Udoo so that we can run some tests and pick our next motors. Joseph is starting to expirement with Graphical User Interfaces (GUI) to make start ups much faster and easier for everyone, we are thinking of using the tkinter library with python but if anyone else has had good results with others please let us know.
+
+Sincerely,
+Blue-Storm RMRC
+
+
+**November 28th, 2018:**
 
 >Gary, the newest member to our team. He is specializing in software, specifically machine learning and thermal imaging.
 
