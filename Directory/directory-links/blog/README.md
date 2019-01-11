@@ -1,5 +1,13 @@
 # Blog
 
+**January 11th, 2018:**
+
+>We were still unsatisfied with the speed of the XRDP Remote Desktop, and while having trouble connecting we searched for a new solution. We installed Ubuntu onto a mac, and open an ssh tunnel from the Ubuntu running the motors to the Ubuntu on the mac, using ssh -x (ip address) from the Mac to connect to the ubuntu. This worked phenomenally, with amazing fps running two cameras, although this is still through a wired connection. Furthermore, during the last update we were having trouble with the UDOO and having the Ubuntu side of the UDOO communicate with the Arduino side, as the Ubuntu was not seeing the Arduino as an output port to upload the code. We found [this guide](https://www.udoo.org/forum/threads/timeout-uploading-to-arduino-101.9891/#post-32686) that detailed a fix for it, and we were finally able to see the Arduino port. We have edited the motor code from last year, and now have a moving robot. Currently, Joseph is still working on finalizing the overall design of the robot, wiring, the positioning of the internal parts, more specifically the arm. Collin is now moving onto our sensors with our CO2 sensor and mic. Gary is still working on our hazmat recognition system, and the thermal camera. Joseph is still working with tkinter library, and beginning to create a GUI. 
+
+>Sincerely,
+
+>Blue-Storm RMRC
+
 **December 12th, 2018:**
 
 >We have switched our focus from VNC to [XRDP](https://help.ubuntu.com/community/xrdp) for setting up a remote desktop. We succesfully installed XRDP using [this](https://help.ubuntu.com/community/xrdp) link. We then installed guvcu, using [this](http://ubuntuhandbook.org/index.php/2018/10/guvcview-2-0-6-released-install-ubuntu/) link, to use as a streaming software for our two USB cameras (pictures below). once we played with the settings, it seemed to work rather well with minimal lag. Collins focus now is getting the motors working with the Udoo so that we can run some tests and pick our next motors. Joseph is starting to expirement with Graphical User Interfaces (GUI) to make start ups much faster and easier for everyone, we are thinking of using the tkinter library with python but if anyone else has had good results with others please let us know.
