@@ -1,6 +1,44 @@
 # Blog
 
-**January 11th, 2018:**
+**January 31st, 2019:**
+
+>On this update you will see a list of every aspect of the design and components that was changed from the 2018 competition. If you wish to learn more about why and how an aspect was changed there will be an explanation of why it was changed and what benefits and disadvantages it provided in directory-links/2019-competiton-prep.
+
+>>Thickness of the robot
+
+>>Less Rounded corners
+
+>>Motor Extrusions in each corner
+
+>>Angled camera slots
+
+>>Claw wheel design adjustment
+
+>>Udoo X86 development board
+
+>>Arm
+
+>>CO2 sensor
+
+>>Microphone array
+
+>>Power Control Unit
+
+>>Speaker
+
+>>Dynamixel communication Board
+
+>>Raspberry Pi 0
+
+>>USB fish eye camera
+
+>>USB 8 megapixel camera
+
+>>External Ethernet Port
+
+>>Dynamixel XM430W-350
+
+**January 11th, 2019:**
 
 >We were still unsatisfied with the speed of the XRDP Remote Desktop, and while having trouble connecting we searched for a new solution. We installed Ubuntu onto a mac, and open an ssh tunnel from the Ubuntu running the motors to the Ubuntu on the mac, using ssh -x (ip address) from the Mac to connect to the ubuntu. This worked phenomenally, with amazing fps running two cameras, although this is still through a wired connection. Furthermore, during the last update we were having trouble with the UDOO and having the Ubuntu side of the UDOO communicate with the Arduino side, as the Ubuntu was not seeing the Arduino as an output port to upload the code. We found [this guide](https://www.udoo.org/forum/threads/timeout-uploading-to-arduino-101.9891/#post-32686) that detailed a fix for it, and we were finally able to see the Arduino port. We have edited the motor code from last year, and now have a moving robot. Currently, Joseph is still working on finalizing the overall design of the robot, wiring, the positioning of the internal parts, more specifically the arm. Collin is now moving onto our sensors with our CO2 sensor and mic. Gary is still working on our hazmat recognition system, and the thermal camera. Joseph is still working with tkinter library, and beginning to create a GUI. 
 
