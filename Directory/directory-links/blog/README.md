@@ -2,7 +2,7 @@
 
 **January 31st, 2019:**
 
->On this update you will see a list of every aspect of the design and components that was changed from the 2018 competition. If you wish to learn more about why and how an aspect was changed there will be an explanation of why it was changed and what benefits and disadvantages it provided in directory-links/2019-competiton-prep.
+>On this update you will see a list of every aspect of the design and components that was changed from the 2018 competition. If you wish to learn more about why and how an aspect was changed there will be an explanation of why it was changed and what benefits and disadvantages it provided in directory-links/2019-competiton-preparation/mechanical.
 
 >>Thickness of the robot
 
