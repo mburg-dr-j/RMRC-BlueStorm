@@ -2,9 +2,11 @@
 
 **To access all of our 3-D designs as well as a stp file that shows you how the robot fits together follow [THIS](designs) link**
 
-
-
 In this document you will see a bolded list of every aspect of the design that was changed from the 2018 competition. Underneath the bolded section will be an explanation of why it was changed and what benefits and disadvantages it provided.
+
+**Suspension:**
+
+> We have implemented the use of sorbothane pads around the motors and electronics in order to reduced the impact stress on the components. This can be seen in the design where there are gaps between the motors and main body, as well as gaps between some of the electronics and their respective mounts. follow the [This]() link to see a video showing how the sorbothane is place on the actual robot. The two graphs below show the data from an acclerometer attached to a 100g weight. The first graph is unprotected, while the second is surrrounded by 12mm sorbothane, similar to the electronics in the robot.
 
 **Thickness:**
 
