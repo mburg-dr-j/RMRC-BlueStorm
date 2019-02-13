@@ -1,5 +1,9 @@
 # Mechanical Design
 
+**To access all of our 3-D designs as well as a stp file that shows you how the robot fits together follow [THIS](designs) link**
+
+
+
 In this document you will see a bolded list of every aspect of the design that was changed from the 2018 competition. Underneath the bolded section will be an explanation of why it was changed and what benefits and disadvantages it provided.
 
 **Thickness:**
