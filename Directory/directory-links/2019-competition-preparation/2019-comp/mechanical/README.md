@@ -8,9 +8,6 @@ In this document you will see a bolded list of every aspect of the design that w
 
 > We have implemented the use of sorbothane pads around the motors and electronics in order to reduced the impact stress on the components. This can be seen in the design where there are gaps between the motors and main body, as well as gaps between some of the electronics and their respective mounts. follow the [This]() link to see a video showing how the sorbothane is place on the actual robot. The two graphs below show the data from an acclerometer attached to a 100g weight. The first graph is unprotected, while the second is surrrounded by 12mm sorbothane, similar to the electronics in the robot.
 
-**Thickness:**
-
->In the 2018 competition our robot was rather thick, allowing for easy placement of components and greater surface area to distribute stress. However, this also came with some disadvantages. While traversing the harder terrains, our robot would start to pivot on the main body due to a lack of clearance room and in the future if we were to transition to fish eye cameras (as was planned), the thickness would block part of our field of view(F.O.V.). The new design is 47mm tall.  This allows for an extraordinary clearance room combined with the slightly extended claw wheels, along with greatly improved field of view with our new fish eye cameras. The only two disadvantages over last years robot is that everything has to be placed in extremely efficient ways, and there is less surface area to distribute stress along.
 
 **Less Rounded corners:**
 
