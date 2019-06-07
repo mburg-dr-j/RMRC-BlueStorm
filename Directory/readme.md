@@ -12,7 +12,7 @@
 
 _________________________________________________________________________________________________________________________________________
 
-[2019 competition preparation](directory-links/2019-competition-preparation)
+[2019 competition](directory-links/2019-competition)
 
 >A description of the physical desighn changes
 
